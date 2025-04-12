@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dedicated Software Engineer | Experienced in C++, C, Linux, CMake, Qt and Embedded Systems | Actively Seeking New Opportunities for Professional Growth
+Dedicated Software Engineer | Experienced in C++, C, Pro*C, Linux, CMake, Qt and Embedded Systems | Actively Seeking New Opportunities for Professional Growth
 
 
 ## 🌐 Socials:
